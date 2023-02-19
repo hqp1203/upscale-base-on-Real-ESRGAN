@@ -1,14 +1,15 @@
 # upscale-base-on-Real-ESRGAN
 
 
-## 大大降低了操作难度，便于操作
+## 描述
+1. 大大降低了操作难度，便于操作
+2. 目前仅支持windows系统
+
+## 使用说明
+直接运行upscale.bat脚本程序即可
 
 
-## 基于xinntao / Real-ESRGAN实现的在Windows上便于操作的图片超分
+### 声明
+本项目基于 xinntao / Real-ESRGAN
+原项目链接：https://github.com/xinntao/Real-ESRGAN
 
-### 使用说明：
-#### 1、 需要提前下载好原项目
-链接：https://github.com/xinntao/Real-ESRGAN
-
-#### 2、
-运行upscale.bat脚本程序
