@@ -1,4 +1,5 @@
 @echo off
+:loop
 rem 获取脚本所在目录的路径
 set "script_dir=%~dp0"
 
@@ -83,3 +84,4 @@ if not exist "%output_path%" (
 
 echo 超分完成，生成的文件名为 "%output_path%"
 pause
+goto loop
